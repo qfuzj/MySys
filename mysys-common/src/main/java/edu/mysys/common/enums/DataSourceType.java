@@ -1,12 +1,10 @@
 package edu.mysys.common.enums;
 
 /**
- * 数据源
- * 
- * @author ruoyi
+ * 数据源类型枚举
+
  */
-public enum DataSourceType
-{
+public enum DataSourceType {
     /**
      * 主库
      */
